@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**JANI6464/jani6464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jani is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 To Get My Portfolio :
 <a href="https://royalphotographyjani.github.io/">Click Me</a>
